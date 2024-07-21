@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7703dbd20b5715547b30ee0cbe4da283, type: 3}
+  m_Name: SkillData_Areus
+  m_EditorClassIdentifier: 
+  status:
+  - name: "\uD53C\uB97C \uBA39\uB294 \uB3C4\uB07C"
+    image: {fileID: 21300000, guid: 1bbd6c33ba9432b46a2876dfb0ae52de, type: 3}
+    type: 0
+    atkType: 0
+    activeType: 0
+    dmg: 0
+    speed: 0
+    atkSpeed: 0
+    atkRange: 0
+    range: 0
+    cost: 0
+    rate: 0
+    isUse: 1
+    skillSE: {fileID: 0}
+    skillobj:
+    - {fileID: 0}
+    - {fileID: 0}
+    skillPoint: 0000000000000000000000000000000000000000
+  - name: "\uD654\uC5FC \uBCA0\uAE30"
+    image: {fileID: 21300000, guid: 0da0d6c28baa7164eb4f3a8844432c95, type: 3}
+    type: 1
+    atkType: 0
+    activeType: 0
+    dmg: 25
+    speed: 0
+    atkSpeed: 0
+    atkRange: 0
+    range: 0
+    cost: 0
+    rate: 10
+    isUse: 0
+    skillSE: {fileID: 0}
+    skillobj:
+    - {fileID: 8029285205468278469, guid: 58328cdb03294a649a06a0230c814408, type: 3}
+    - {fileID: 8029285205468278469, guid: 58328cdb03294a649a06a0230c814408, type: 3}
+    skillPoint: 0000000000000000000000000000000000000000
+  - name: "\uAD11\uAE30\uC758 \uC77C\uACA9"
+    image: {fileID: 21300000, guid: 5e8ac3ed08480e04a98e67a9706ad58e, type: 3}
+    type: 2
+    atkType: 0
+    activeType: 2
+    dmg: 0
+    speed: 0
+    atkSpeed: 0
+    atkRange: 0
+    range: 0
+    cost: 0
+    rate: 0
+    isUse: 0
+    skillSE: {fileID: 0}
+    skillobj:
+    - {fileID: 0}
+    - {fileID: 0}
+    skillPoint: 0000000000000000000000000000000000000000

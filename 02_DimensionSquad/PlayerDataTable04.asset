@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa430b973922ce647a3900c53ef1afd5, type: 3}
+  m_Name: PlayerDataTable04
+  m_EditorClassIdentifier: 
+  typeIcon: {fileID: 21300000, guid: 9c1b96527965d2e43bc808148ab50477, type: 3}
+  charStat:
+  - name: "\uB9C8\uB9AC\uC5D8\uB77C"
+    type: 3
+    hp: 145
+    maxhp: 145
+    mp: 0
+    armor: 0
+    atk: 1
+    def: 1.5
+    charImage: {fileID: 21300000, guid: 1428a0b3e001fd84a85a5df95dd5fc0e, type: 3}
+    atkType: 1
+    atkObj: {fileID: 3578617658958593287, guid: cb85f3084d219e049be12e21f3615f30, type: 3}
+    atkSE: {fileID: 8300000, guid: 61dfc26f78728c34991f9755ce62a5b5, type: 3}
+    atkRate: 0.8
+    atkRange: 4
+    atkWidth: 0
+    speed: 7
+    shotSpeed: 6
+    atkNum: 1
+    shotNum: 
+    auraDmg:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    skillRate: 0
+    skillSet: {fileID: 11400000, guid: 48a155caa47b5d44eaa88dbc49f4425f, type: 2}

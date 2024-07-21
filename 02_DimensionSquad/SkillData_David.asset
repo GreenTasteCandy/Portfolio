@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7703dbd20b5715547b30ee0cbe4da283, type: 3}
+  m_Name: SkillData_David
+  m_EditorClassIdentifier: 
+  status:
+  - name: "\uD604\uC0C1\uAE08 \uC0AC\uB0E5\uAFBC"
+    image: {fileID: 0}
+    type: 0
+    atkType: 0
+    activeType: 0
+    dmg: 0
+    speed: 0
+    atkSpeed: 0
+    atkRange: 0
+    range: 0
+    cost: 0
+    rate: 0
+    isUse: 0
+    skillSE: {fileID: 0}
+    skillobj:
+    - {fileID: 0}
+    - {fileID: 0}
+    skillPoint: 0000000000000000000000000000000000000000
+  - name: "\uC624\uBC84\uD074\uB7ED"
+    image: {fileID: 0}
+    type: 1
+    atkType: 0
+    activeType: 2
+    dmg: 0
+    speed: 0
+    atkSpeed: 2
+    atkRange: 0
+    range: 5
+    cost: 0
+    rate: 20
+    isUse: 0
+    skillSE: {fileID: 0}
+    skillobj:
+    - {fileID: 8244427857137501394, guid: 00c1f3a1405df5e47ac461b09bf422d2, type: 3}
+    - {fileID: 8244427857137501394, guid: 00c1f3a1405df5e47ac461b09bf422d2, type: 3}
+    skillPoint: 0000000001000000010000000100000001000000
+  - name: "\uC2E0\uACBD\uAC15\uD654\uC81C"
+    image: {fileID: 0}
+    type: 2
+    atkType: 0
+    activeType: 0
+    dmg: 0
+    speed: 0
+    atkSpeed: 0
+    atkRange: 0
+    range: 0
+    cost: 0
+    rate: 0
+    isUse: 0
+    skillSE: {fileID: 0}
+    skillobj:
+    - {fileID: 0}
+    - {fileID: 0}
+    skillPoint: 0000000000000000000000000000000000000000
