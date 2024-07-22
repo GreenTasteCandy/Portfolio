@@ -1,5 +1,6 @@
-# 🖥️ Portfolio
-각 팀 프로젝트에서 참여하여 제작한 코드들을 모아놓은 Git입니다
+# 🖥️ GTC_Portfolio
++ 연락처 : rugx@naver.com
++ 유니티 팀 프로젝트에서 참여하여 작업한 코드들을 모아놓은 Git입니다
 
 ---
 ## 1. 🪶 Eggururu Classic
