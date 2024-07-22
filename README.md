@@ -4,9 +4,13 @@
 ---
 ## 📑 목차
 [1. 🪶 Eggururu Classic](https://github.com/GreenTasteCandy/Portfolio?tab=readme-ov-file#1--eggururu-classic)
+
 [2. 🌳 Folast](https://github.com/GreenTasteCandy/Portfolio?tab=readme-ov-file#2--folast)
+
 [3. 🪐 Dimension Squad](https://github.com/GreenTasteCandy/Portfolio?tab=readme-ov-file#3--dimension-squad)
+
 [4. 🚀 Astra](https://github.com/GreenTasteCandy/Portfolio?tab=readme-ov-file#4--astra)
+
 [5. 🥚 Eggururu](https://github.com/GreenTasteCandy/Portfolio?tab=readme-ov-file#5--eggururu)
 ---
 ## 1. 🪶 Eggururu Classic
