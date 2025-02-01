@@ -1,6 +1,8 @@
 # 🖥️ GTC_Portfolio
++ 작업자 : 김성현
 + 연락처 : rugx@naver.com
-+ 유니티 팀 프로젝트에서 참여하여 작업한 코드들을 모아놓은 Git입니다
++ 팀 프로젝트 및 개인 프로젝트에서 작업한 코드 및 스크립트들을 모아놓은 Git 입니다
++ 각 코드 및 스크립트마다 어떤 기능인지 설명이 붙어 있습니다
 ---
 ## 📑 목차
 [1. 🪶 Eggururu Classic](https://github.com/GreenTasteCandy/Portfolio?tab=readme-ov-file#1--eggururu-classic)
@@ -16,11 +18,14 @@
 ---
 ## 1. 🪶 Eggururu Classic
 
-+ 2022년 8월 출시된 에구루루(2022)에서 사용된 코드들입니다
++ 2022년 8월 Google Play에 출시된 에구루루(2022)에서 사용된 코드들입니다
 + 장르 : 캐주얼 러닝
 + 다운로드(Google Play) : https://play.google.com/store/apps/details?id=com.TeamDUJ.Eggururu&hl=ko
 + 플레이 영상 : https://www.youtube.com/watch?v=RXmGPkEsk0E
-+ 담당 업무 : 전반적인 게임의 모든 시스템 제작
++ 주요 담당 업무
+  + PGS(Play Games Service)를 사용한 업적과 랭킹 시스템
+  + Admob을 사용한 보상형광고 표시 시스템
+  + 그 외 게임 내 등장하는 모든 시스템 제작
 
 ### 💾 제작한 코드 설명
 + BreakMove.cs : 맵에서 길을 생성하는 오브젝트의 이동 코드입니다
@@ -43,11 +48,17 @@
 ---
 ## 2. 🌳 Folast
 
-+ 2022년 12월 출시된 포라스트에서 사용된 코드들입니다
++ 2022년 12월 Google Play에 출시된 포라스트에서 사용된 코드들입니다
 + 장르 : 디펜스 + 오펜스
 + 다운로드(Google Play) : https://play.google.com/store/apps/details?id=duj.teamDuj.Folast&hl=ko
 + 플레이 영상 : https://www.youtube.com/watch?v=oztcVhuSyEs
-+ 담당 업무 : PGS를 통한 저장 및 업적과 랭킹 시스템 구현,디펜스 시스템과 오펜스 시스템,아이템 시스템,오브젝트의 이동 및 전투 시스템,타워 생성 시스템
++ 주요 담당 업무
+   + PGS(Play Games Service)를 사용한 Cloud Saving 시스템
+   + PGS(Play Games Service)를 사용한 업적과 랭킹 시스템
+   + 디펜스 시스템과 오펜스 시스템
+   + 아이템 시스템
+   + 오브젝트의 이동 및 전투 시스템
+   + 타워 생성 시스템
 
 ### 💾 제작한 코드 설명
 + BuildTowerImage.cs : 인게임에서 유닛이나 영웅 버튼의 ui 표시 및 기능을 담당하는 코드입니다
@@ -105,7 +116,9 @@
 + 2023년 6월 제작한 디멘션 스쿼드에서 사용된 코드들입니다
 + 장르 : 4인 CO-OP 로그라이트
 + 플레이 영상 : https://www.youtube.com/watch?v=yBrdbMJ5Jpw
-+ 담당 업무 : 전반적인 게임의 모든 시스템 제작
++ 주요 담당 업무
+  + Photon PUN2를 사용한 4인 CO-OP 멀티플레이 시스템
+  + 그 외 게임 내 등장하는 모든 시스템 제작
 
 ### 💾 제작한 코드 설명
 + BulletSystem.cs : 발사체의 발사 및 충돌 기능을 담당하는 코드입니다
@@ -122,11 +135,14 @@
 ---
 ## 4. 🚀 Astra
 
-+ 2023년 12월 출시한 아스트라에서 사용된 코드들입니다
++ 2023년 12월 Google Play에 출시한 아스트라에서 사용된 코드들입니다
 + 장르 : TPS 액션 어드벤처
 + 다운로드(Google Play) : https://play.google.com/store/apps/details?id=gtc.gtcstudio.projectAstra&hl=ko
 + 플레이 영상 : https://www.youtube.com/watch?v=0CftThrA9TY
-+ 담당 업무 : 필드의 오브젝트 생성 시스템,플레이어 캐릭터의 채집/전투와 같은 기능 제작,적 오브젝트의 AI 시스템 제작
++ 주요 담당 업무
+  + 필드의 오브젝트 생성 시스템
+  + 플레이어 캐릭터의 채집/전투와 같은 활동 시스템 제작
+  + 적 오브젝트의 AI 시스템 제작
 
 ### 💾 제작한 코드 설명
 + AreaData.cs : 오브젝트가 생성될 구역의 오브젝트 번호와 생성 숫자를 설정하는 코드입니다
@@ -159,7 +175,12 @@
 + 장르 : 캐주얼 러닝
 + 다운로드(Google Play) : https://play.google.com/store/apps/details?id=duj.teamDUJ.projectEggururu&hl=ko
 + 플레이 영상 : https://www.youtube.com/watch?v=zo9afTK6v6M
-+ 담당 업무 : Firebase를 통한 로그인/유저 데이터 저장/랭킹/퀘스트 시스템,상점 시스템,로비 화면의 UI/UX
++ 주요 담당 업무
+  + Firebase를 사용한 로그인 및 유저 데이터 저장 시스템
+  + Firebase를 사용한 유저 랭킹 시스템
+  + Firebase를 사용한 퀘스트 시스템
+  + 상점 시스템
+  + 로비 화면의 UI/UX 제작
 
 ### 💾 제작한 코드 설명
 + AbilityShop.cs : 상점에서 특성 구매 시 랜덤한 특성을 획득하는 기능을 담당하는 코드입니다
